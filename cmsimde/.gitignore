@@ -1,7 +1,3 @@
-[submodule "cad2025_team"]
-    path = cad2025_team
-    url = https://github.com/41323104mia/cad2025_team.git
-
 # General
 __pycache__/
 .DS_Store
